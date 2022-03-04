@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-My Name is Maximilian Fischer. 
+My Name is Maximilian Fischer. <br>
 I am a Student of the HTL Spengergasse.
+
 
 - 🔭 I’m currently working on stuff
 - 🌱 I’m currently learning stuff
