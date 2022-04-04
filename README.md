@@ -9,4 +9,5 @@ I am a Student of the HTL Spengergasse.
 - 🤔 I’m looking for help with english, lol
 - 💬 Ask me about: stuff
 - ⚡ Fun fact: 1 + 1 != 1
-     <img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi1324&layout=compact&theme=radical" height="170"/>
+
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi1324&layout=compact&theme=radical" height="170"/>
